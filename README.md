@@ -1,3 +1,3 @@
-#Test_Repository
+#TestRepo
 
 Hello, this is the test repo
